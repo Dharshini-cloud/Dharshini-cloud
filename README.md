@@ -66,12 +66,6 @@
   <img src="https://img.icons8.com/color/48/canva.png" height="50"/>
 </div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharshini-cloud&show_icons=true&theme=radical&hide_title=true&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharshini-cloud&layout=compact&theme=radical&hide_border=true" height="160"/>
-</p>
-
 ## 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshini-cloud&theme=radical&hide_border=true" height="160"/>
