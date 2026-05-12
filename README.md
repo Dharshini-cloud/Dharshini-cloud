@@ -5,7 +5,7 @@
 
 <p align="center">
   <!-- Roles (looping) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;UI/UX+Designer" />
 </p>
 
 ## 🚀 About Me
@@ -74,7 +74,7 @@
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Dharshini-cloud&theme=radical&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharshini-cloud&theme=radical&hide_border=true" height="160"/>
 </p>
 
 ## 🐍 Contribution Snake
