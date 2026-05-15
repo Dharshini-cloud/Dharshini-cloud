@@ -64,6 +64,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/canva.png" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/96/power-bi.png" height="50"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="50"/>
 </div>
 
 ## 🔥 GitHub Streak
